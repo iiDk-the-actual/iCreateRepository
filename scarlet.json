@@ -3,19 +3,16 @@
 		"repoName": "iCreate Repository",
 		"repoIcon": "https://raw.githubusercontent.com/iiDk-the-actual/Resources/main/AppIcon83.5x83.5%402x%7Eipad.png"
 	},
-	"Tweaked": [{
+	"Other": [{
 		"name": "iCreate Pro",
 		"version": "4.1.1",
 		"down": "https://geticreate.pro/download/ipa",
-		"category": "Tweaked Apps",
+		"category": "iCreate Pro",
 		"description": "iCreate Pro is a jailbreak-free Geometry Dash mod menu for iOS. iCreate Pro contains 30+ mods.",
-		"bundleID": "com.robtopgames.ios.icreatepro",
-		"appstore": ""com.robtopgames.ios.icreatepro",",
+		"bundleID": "com.robtopgames.icreatepro",
+		"appstore": ""com.robtopgames.icreatepro",",
 		"contact": {
 			"web": "https://geticreate.pro"
 		}
-	}],
-	"Jailbreaks": [],
-	"Emulators": [],
-	"Other": []
+	}]
 }
